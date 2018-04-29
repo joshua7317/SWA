@@ -1,0 +1,14 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.docx
+
+# Latex:
+*.dvi
+*.synctex.gz
+*.bcf
+*.run.xml
+*-blx.bib
+*.pdf
+
